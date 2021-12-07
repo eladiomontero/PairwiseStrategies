@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/436012651.svg)](https://zenodo.org/badge/latestdoi/436012651)
 # PairwiseStrategies
 Code for the paper: "Inferring Strategies from Observations in Iterated Prisoner's Dilemma Experiments" by Eladio Montero-Porras, Jelena Grujic, Elias Fernandez-Domingos and Tom Lenaerts.
 
