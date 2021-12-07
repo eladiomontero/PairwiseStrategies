@@ -1,0 +1,14 @@
+digraph {
+	node [color="#00509d" fontsize=25 shape=rectangle]
+	"(DC)D = 0.240 
+(DD)D = 0.760 
+"
+	"(DC)D = 0.240 
+(DD)D = 0.760 
+" -> "(DC)D = 0.240 
+(DD)D = 0.760 
+" [label=1.0]
+	"(DC)D = 0.240 
+(DD)D = 0.760 
+" [style="setlinewidth(5)"]
+}

@@ -1,0 +1,22 @@
+digraph {
+	node [color="#f3722c" fontsize=25 shape=rectangle]
+	"(CC)C = 0.080 
+(CD)D = 0.200 
+(DC)C = 0.200 
+(DD)D = 0.520 
+"
+	"(CC)C = 0.080 
+(CD)D = 0.200 
+(DC)C = 0.200 
+(DD)D = 0.520 
+" -> "(CC)C = 0.080 
+(CD)D = 0.200 
+(DC)C = 0.200 
+(DD)D = 0.520 
+" [label=1.0]
+	"(CC)C = 0.080 
+(CD)D = 0.200 
+(DC)C = 0.200 
+(DD)D = 0.520 
+" [style="setlinewidth(5)"]
+}

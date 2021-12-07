@@ -1,0 +1,10 @@
+digraph {
+	node [color="#2a9d8f" fontsize=25 shape=rectangle]
+	"(DD)D = 1.000 
+"
+	"(DD)D = 1.000 
+" -> "(DD)D = 1.000 
+" [label=1.0]
+	"(DD)D = 1.000 
+" [style="setlinewidth(5)"]
+}
